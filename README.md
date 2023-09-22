@@ -35,3 +35,13 @@ The Ultimate Organizer is a project with wide-ranging uses and applications. It 
 ![image](https://github.com/God-ass/Ultimate-Organizer-in-VBA/assets/92200827/640546dc-0be7-455a-b9e1-5c613ec7a370)
 
 7. **Input Validation**: You should make sure that your user form never brings up the “Debug” box and the Visual Basic Editor. There is a lot of input validation and fine tuning that you can do for this project (like what happens if Cancel buttons are pressed, etc.).
+
+---
+
+### **Click the blue box at the top of the page (quick access toolbar) to activate the Ultimate Organizer**
+
+![image](https://github.com/God-ass/Ultimate-Organizer-in-VBA/assets/92200827/e1a44984-4770-4490-a6ff-a7f6b0dca108)
+
+
+![image](https://github.com/God-ass/Ultimate-Organizer-in-VBA/assets/92200827/d79f9eb4-eee8-4f4b-ba86-f02a97621979)
+
